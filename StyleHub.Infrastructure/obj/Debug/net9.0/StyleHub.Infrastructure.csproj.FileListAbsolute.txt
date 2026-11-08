@@ -1,0 +1,17 @@
+C:\StyleHub\StyleHub.Infrastructure\bin\Debug\net9.0\StyleHub.Infrastructure.deps.json
+C:\StyleHub\StyleHub.Infrastructure\bin\Debug\net9.0\StyleHub.Infrastructure.dll
+C:\StyleHub\StyleHub.Infrastructure\bin\Debug\net9.0\StyleHub.Infrastructure.pdb
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.AssemblyInfoInputs.cache
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.AssemblyInfo.cs
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.dll
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\refint\StyleHub.Infrastructure.dll
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.pdb
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\ref\StyleHub.Infrastructure.dll
+C:\StyleHub\StyleHub.Infrastructure\bin\Debug\net9.0\StyleHub.Infrastructure.runtimeconfig.json
+C:\StyleHub\StyleHub.Infrastructure\bin\Debug\net9.0\StyleHub.Core.dll
+C:\StyleHub\StyleHub.Infrastructure\bin\Debug\net9.0\StyleHub.Core.pdb
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.csproj.AssemblyReference.cache
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.B7951B1D.Up2Date
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.genruntimeconfig.cache

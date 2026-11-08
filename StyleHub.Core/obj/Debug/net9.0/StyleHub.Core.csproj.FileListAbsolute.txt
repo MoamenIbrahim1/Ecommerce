@@ -1,0 +1,11 @@
+C:\StyleHub\StyleHub.Core\bin\Debug\net9.0\StyleHub.Core.deps.json
+C:\StyleHub\StyleHub.Core\bin\Debug\net9.0\StyleHub.Core.dll
+C:\StyleHub\StyleHub.Core\bin\Debug\net9.0\StyleHub.Core.pdb
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\StyleHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\StyleHub.Core.AssemblyInfoInputs.cache
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\StyleHub.Core.AssemblyInfo.cs
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\StyleHub.Core.csproj.CoreCompileInputs.cache
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\StyleHub.Core.dll
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\refint\StyleHub.Core.dll
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\StyleHub.Core.pdb
+C:\StyleHub\StyleHub.Core\obj\Debug\net9.0\ref\StyleHub.Core.dll
