@@ -23,8 +23,6 @@ namespace StyleHub.Infrastructure._Data.AppDbContext
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderItem> OrderItems { get; set; }
         public DbSet<Address> Addresses { get; set; }
-
-        // تعديل بسيط: جعلنا الحرف الأول كبيراً للـ DbSets المتأثرة تماشياً مع الـ Standard
         public DbSet<ProductColors> ProductColors { get; set; }
         public DbSet<ProductSize> ProductSizes { get; set; }
         public DbSet<Size> Sizes { get; set; }

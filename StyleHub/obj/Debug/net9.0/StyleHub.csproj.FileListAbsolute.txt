@@ -316,3 +316,4 @@ C:\StyleHub\StyleHub\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDeriv
 C:\StyleHub\StyleHub\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\StyleHub\StyleHub\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 C:\StyleHub\StyleHub\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\StyleHub\StyleHub\obj\Debug\net9.0\StyleHub.sourcelink.json

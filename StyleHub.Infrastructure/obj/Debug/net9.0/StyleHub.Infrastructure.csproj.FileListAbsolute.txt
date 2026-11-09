@@ -15,3 +15,4 @@ C:\StyleHub\StyleHub.Infrastructure\bin\Debug\net9.0\StyleHub.Core.pdb
 C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.csproj.AssemblyReference.cache
 C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.B7951B1D.Up2Date
 C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.genruntimeconfig.cache
+C:\StyleHub\StyleHub.Infrastructure\obj\Debug\net9.0\StyleHub.Infrastructure.sourcelink.json

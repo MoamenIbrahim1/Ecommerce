@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\StyleHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\productcolorconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\productcolorconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\productconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\productconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\productsizeconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\productsizeconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\reviewconfiquaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\reviewconfiquaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|c:\\stylehub\\stylehub.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\controllers\\customer\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\controllers\\customer\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\customer\\home\\product-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\customer\\home\\product-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\customer\\home\\home-03cshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\customer\\home\\home-03cshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\customer\\home\\home-02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\customer\\home\\home-02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +75,8 @@
       "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\wishlistconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\controllers\\customer\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\controllers\\customer\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|c:\\stylehub\\stylehub.core\\stylehub.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\stylehub.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\productconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\productconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\seed data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|c:\\stylehub\\stylehub.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\categoryconfiqurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\categoryconfiqurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,28 +99,8 @@
       "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\productcolorconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\productcolorconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\reviewconfiquaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\reviewconfiquaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\orderconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\orderconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|c:\\stylehub\\stylehub.core\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,16 +143,8 @@
       "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\models\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\customer\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\shared\\_customerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -135,10 +159,6 @@
       "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\_data\\confiquration\\productsizeconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\_data\\confiquration\\productsizeconfiquration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|c:\\stylehub\\stylehub.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -151,20 +171,8 @@
       "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\stylehub.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\customer\\home\\home-03cshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\customer\\home\\home-03cshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\migrations\\20260508191253_imagesproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|solutionrelative:stylehub.infrastructure\\migrations\\20260508191253_imagesproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\stylehub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -181,10 +189,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|c:\\stylehub\\stylehub.core\\models\\cart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94EB9657-4FA4-4FDC-BF07-97CBBC057A78}|StyleHub.Core\\StyleHub.Core.csproj|solutionrelative:stylehub.core\\models\\cart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|c:\\stylehub\\stylehub\\views\\customer\\home\\home-02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA413BC-3EC7-44D6-B18F-ADACADAA0847}|StyleHub\\StyleHub.csproj|solutionrelative:stylehub\\views\\customer\\home\\home-02.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65B10C06-EEE0-4482-B668-6A4A7A165780}|StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj|c:\\stylehub\\stylehub.infrastructure\\migrations\\20260508180019_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -218,8 +222,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "StyleHub.Core\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Core\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "StyleHub.Core\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T13:50:02.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewConfiquaration.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:33:28.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSizeConfiquration.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:11:47.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductConfiquration.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:51:50.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductColorConfiquration.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:49:43.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Controllers\\Customer\\HomeController.cs",
+              "RelativeDocumentMoniker": "StyleHub\\Controllers\\Customer\\HomeController.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub\\Controllers\\Customer\\HomeController.cs",
+              "RelativeToolTip": "StyleHub\\Controllers\\Customer\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAD4vxwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T15:46:20.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:34:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:28:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "product-detail.cshtml",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\product-detail.cshtml",
+              "RelativeDocumentMoniker": "StyleHub\\Views\\Customer\\Home\\product-detail.cshtml",
+              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\product-detail.cshtml",
+              "RelativeToolTip": "StyleHub\\Views\\Customer\\Home\\product-detail.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-09T13:15:34.98Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
@@ -230,32 +351,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA3wCIAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T14:37:19.333Z",
+              "WhenOpened": "2026-05-14T16:32:57.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "StyleHub.Core\\Services\\IProductService.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Core\\Services\\IProductService.cs",
-              "RelativeToolTip": "StyleHub.Core\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T01:05:39.158Z"
+              "WhenOpened": "2026-05-08T17:26:45.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StyleHub\\Views\\Customer\\Home\\Index.cshtml",
+              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\Index.cshtml",
+              "RelativeToolTip": "StyleHub\\Views\\Customer\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:05:41.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "home-03cshtml.cshtml",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
+              "RelativeDocumentMoniker": "StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
+              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
+              "RelativeToolTip": "StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T13:49:17.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_CustomerLayout.cshtml",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
+              "RelativeDocumentMoniker": "StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
+              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
+              "RelativeToolTip": "StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T20:20:56.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "StyleHub\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "StyleHub\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T14:27:27.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "home-02.cshtml",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
+              "RelativeDocumentMoniker": "StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
+              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
+              "RelativeToolTip": "StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYCAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T13:48:29.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Seed Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Seed Data\\DbInitializer.cs",
@@ -267,20 +454,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Controllers\\Customer\\HomeController.cs",
-              "RelativeDocumentMoniker": "StyleHub\\Controllers\\Customer\\HomeController.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub\\Controllers\\Customer\\HomeController.cs",
-              "RelativeToolTip": "StyleHub\\Controllers\\Customer\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABaAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "StyleHub.Core\\Services\\IProductService.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Core\\Services\\IProductService.cs",
+              "RelativeToolTip": "StyleHub.Core\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T15:46:20.497Z",
+              "WhenOpened": "2026-05-16T01:05:39.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
+              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\AppDbContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T14:37:19.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "WishListConfiquration.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\WishListConfiquration.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\WishListConfiquration.cs",
@@ -288,12 +487,11 @@
               "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\WishListConfiquration.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T01:44:35.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-29T01:44:35.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "CartConfiquration.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\CartConfiquration.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\CartConfiquration.cs",
@@ -305,19 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductConfiquration.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductConfiquration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T14:51:50.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "StyleHub.Core.csproj",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\StyleHub.Core.csproj",
               "RelativeDocumentMoniker": "StyleHub.Core\\StyleHub.Core.csproj",
@@ -329,19 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Dtos\\ProductDto.cs",
-              "RelativeDocumentMoniker": "StyleHub.Core\\Dtos\\ProductDto.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Core\\Dtos\\ProductDto.cs",
-              "RelativeToolTip": "StyleHub.Core\\Dtos\\ProductDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T13:50:02.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "CategoryConfiqurations.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\CategoryConfiqurations.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\CategoryConfiqurations.cs",
@@ -353,31 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductColorConfiquration.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductColorConfiquration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:49:43.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ReviewConfiquaration.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ReviewConfiquaration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T01:33:28.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "OrderConfiquration.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\OrderConfiquration.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\OrderConfiquration.cs",
@@ -389,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Category.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Category.cs",
@@ -401,43 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T16:32:57.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\UnitOfWork\\IUnitOfWork.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T16:34:30.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T17:28:23.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Order\\Order.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Order\\Order.cs",
@@ -449,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Address.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Address.cs",
@@ -461,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "20260516173834_addaddressrelation.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Migrations\\20260516173834_addaddressrelation.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Migrations\\20260516173834_addaddressrelation.cs",
@@ -473,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "WishListItem.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\WishList\\WishListItem.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\WishList\\WishListItem.cs",
@@ -485,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "20260516173110_solveuserbug.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Migrations\\20260516173110_solveuserbug.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Migrations\\20260516173110_solveuserbug.cs",
@@ -497,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "WishList.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\WishList\\WishList.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\WishList\\WishList.cs",
@@ -509,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Reviews\\Review.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Reviews\\Review.cs",
@@ -521,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "Size.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Size.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Size.cs",
@@ -533,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "ProductColors.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\ProductColors.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\ProductColors.cs",
@@ -545,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Order\\OrderItem.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Order\\OrderItem.cs",
@@ -557,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "20260516172431_solvereduancy.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Migrations\\20260516172431_solvereduancy.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Migrations\\20260516172431_solvereduancy.cs",
@@ -569,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "20260516160953_AddColorandSize.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Migrations\\20260516160953_AddColorandSize.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Migrations\\20260516160953_AddColorandSize.cs",
@@ -581,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "ProductSize.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\ProductSize.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\ProductSize.cs",
@@ -593,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Program.cs",
               "RelativeDocumentMoniker": "StyleHub\\Program.cs",
@@ -605,19 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "StyleHub\\Views\\Customer\\Home\\Index.cshtml",
-              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\Index.cshtml",
-              "RelativeToolTip": "StyleHub\\Views\\Customer\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-22T21:05:41.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "StyleHub\\Views\\Shared\\_AdminLayout.cshtml",
@@ -629,19 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_CustomerLayout.cshtml",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
-              "RelativeDocumentMoniker": "StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
-              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
-              "RelativeToolTip": "StyleHub\\Views\\Shared\\_CustomerLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-22T20:20:56.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "StyleHub\\Views\\_ViewImports.cshtml",
@@ -653,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "StyleHub\\Views\\_ViewStart.cshtml",
@@ -665,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub\\appsettings.json",
               "RelativeDocumentMoniker": "StyleHub\\appsettings.json",
@@ -677,19 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ProductSizeConfiquration.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\_Data\\Confiquration\\ProductSizeConfiquration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-16T14:11:47.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Product.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Product.cs",
@@ -701,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "Color.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Color.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Color.cs",
@@ -713,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "StyleHub.Infrastructure.csproj",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\StyleHub.Infrastructure.csproj",
@@ -725,43 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "home-03cshtml.cshtml",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
-              "RelativeDocumentMoniker": "StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
-              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
-              "RelativeToolTip": "StyleHub\\Views\\Customer\\Home\\home-03cshtml.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-23T13:49:17.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\StyleHub\\StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "StyleHub.Infrastructure\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T17:26:45.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "StyleHub\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "StyleHub\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-26T14:27:27.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "20260508190106_addimages.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Migrations\\20260508190106_addimages.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Migrations\\20260508190106_addimages.cs",
@@ -773,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "20260508191253_imagesproduct.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Migrations\\20260508191253_imagesproduct.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Migrations\\20260508191253_imagesproduct.cs",
@@ -785,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "20260508180019_intial.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\Migrations\\20260508180019_intial.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\Migrations\\20260508180019_intial.cs",
@@ -797,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "StyleHub.csproj",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub\\StyleHub.csproj",
               "RelativeDocumentMoniker": "StyleHub\\StyleHub.csproj",
@@ -809,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Infrastructure\\User\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "StyleHub.Infrastructure\\User\\ApplicationUser.cs",
@@ -821,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Cart\\Cart.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Cart\\Cart.cs",
@@ -833,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\StyleHub\\StyleHub.Core\\Models\\Cart\\CartItem.cs",
               "RelativeDocumentMoniker": "StyleHub.Core\\Models\\Cart\\CartItem.cs",
@@ -842,18 +884,6 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAswAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T01:32:36.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "home-02.cshtml",
-              "DocumentMoniker": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
-              "RelativeDocumentMoniker": "StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
-              "ToolTip": "C:\\StyleHub\\StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
-              "RelativeToolTip": "StyleHub\\Views\\Customer\\Home\\home-02.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYCAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-23T13:48:29.416Z"
             }
           ]
         }

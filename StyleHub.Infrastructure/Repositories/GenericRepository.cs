@@ -27,10 +27,7 @@ namespace StyleHub.Infrastructure.Repositories
           _context.Set<T>().Remove(entity);
         }
 
-        public async Task<IEnumerable<T>> GetAllAsync()
-        {
-           return await _context.Set<T>().ToListAsync();
-        }
+      
 
         public async Task<T> GetByIdAsync(int id)
         {
@@ -45,6 +42,11 @@ namespace StyleHub.Infrastructure.Repositories
         public void Update(T entity)
         {
             _context.Set<T>().Update(entity);
+        }
+
+        public IQueryable<T> GetAllAsync()
+        {
+            return _context.Set<T>();
         }
     }
 }
